@@ -2,6 +2,7 @@
 # Contributors
 sara
 - [Gargi Bandyopadhyay] (https://github.com/Gargi2003)
+- [CanadianHummus](https://github.com/CanadianHummus)
 - [QubeUK](https://github.com/QubeUK)
 - [Andreas Carlsson](https://github.com/Fetante)
 - [Nyi Lin Htut] (https://github.com/nyilinhtut1994)
